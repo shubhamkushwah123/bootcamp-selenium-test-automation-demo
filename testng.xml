@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<suite name = "Simple test-ng test-suite">
+
+   <test name = "testng example">
+      <classes>
+         <class name = "com.mentorbabaa.selenium.App" />
+      </classes>
+   </test>
+   
+   
+   
+   
+</suite>
